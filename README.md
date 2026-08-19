@@ -1,4 +1,4 @@
-# CodeAlpha Library Management
+# CodeAlpha Library Management System
 
 A Library Management System developed using Python and Tkinter.
 
@@ -6,17 +6,24 @@ A Library Management System developed using Python and Tkinter.
 
 - User and Admin Login
 - Dashboard
-- Book Management
+- View Books
 - Search Books
 - Borrow Books
 - Return Books
 - Add Books
 - Remove Books
 
-## Programming Language
+## Books
 
-Python
+- The Tale of Genji
+- The Book of Five Rings
+- Introduction to Classical Chinese Philosophy
 
-## GUI Framework
+## Technology
 
-Tkinter
+- Python
+- Tkinter
+
+## Project Purpose
+
+This project was created for the CodeAlpha Secure Coding Review task.
